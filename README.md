@@ -7,11 +7,11 @@
 <!-- generate badges from: https://shields.io/ -->
 
 <p align="center">
-  <a href="https://www.mnobinur.pythonanywhere.com">
+  <a href="https://mnobinur.pythonanywhere.com/#home" target="_blank">
       <img alt="M-Nobinur" title="Web Site" src="https://img.shields.io/badge/-Website-cdf1ea?color=5dbfad&logoColor=91dcce&labelColor=589086&style=for-the-badge&logo=appveyor"/></a>
-    <a href="https://www.linkedin.com/in/mnobinur">
+    <a href="https://www.linkedin.com/in/mnobinur" target="_blank">
       <img alt="LinkedIn" title="Connect me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?color=5d86bf&labelColor=80acda&style=for-the-badge&logo=Linkedin"/></a>
-    <a href="mailto:mohammadnobinur@gmail.com">
+    <a href="mailto:mohammadnobinur@gmail.com" target="_blank">
       <img alt="Gmain" title="Send Mail" src="https://img.shields.io/badge/-Gmail-c14438?color=94495e&labelColor=691524&style=for-the-badge&logo=Gmail"/></a>
     <a href="https://github.com/m-nobinur">
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/m-nobinur?color=a4b0c1&labelColor=31658a&style=for-the-badge&logo=github&label=Github"/></a>
