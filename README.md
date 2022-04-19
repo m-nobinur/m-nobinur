@@ -7,17 +7,15 @@
 <!-- generate badges from: https://shields.io/ -->
 
 <p align="center">
-  <a href="https://mnobinur.pythonanywhere.com/#home" target="_blank">
+ <!-- <a href="#" target="_blank">
       <img alt="M-Nobinur" title="Web Site" src="https://img.shields.io/badge/-Website-cdf1ea?color=5dbfad&logoColor=91dcce&labelColor=589086&style=for-the-badge&logo=appveyor"/></a>
+-->
     <a href="https://www.linkedin.com/in/mnobinur" target="_blank">
       <img alt="LinkedIn" title="Connect me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?color=5d86bf&labelColor=80acda&style=for-the-badge&logo=Linkedin"/></a>
     <a href="mailto:mohammadnobinur@gmail.com" target="_blank">
       <img alt="Gmain" title="Send Mail" src="https://img.shields.io/badge/-Gmail-c14438?color=94495e&labelColor=691524&style=for-the-badge&logo=Gmail"/></a>
     <a href="https://github.com/m-nobinur">
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/m-nobinur?color=a4b0c1&labelColor=31658a&style=for-the-badge&logo=github&label=Github"/></a>
-</p>
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 </p>
 
 &nbsp;
@@ -31,25 +29,6 @@
 - 🌱 I’m currently learning Rust; 
 - 👯 I’m looking to collaborate on interesting open-source project 🤝;
 - 💬 Ask me about Python, Bash, Django, JavaScript;
-
-
-### 🚀  I am proficient in
-
-<!-- Use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="4%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br /> 
-</p>
 
 &nbsp;
 
@@ -71,7 +50,7 @@
 
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>  
-  <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-      badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
+  <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the- badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white"></a>  
     <a href="#"><img alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"></a>  
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>  
