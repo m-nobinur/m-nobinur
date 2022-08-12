@@ -20,13 +20,10 @@
 
 &nbsp;
 
-### 🧐 Curious about me ?
+## About Me
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="40%" height="360px" align="right" alt="Github" src="https://uxwing.com/wp-content/themes/uxwing/download/07-web-app-development/programmer.png" />
-
-- 👨🏽‍💻 I’m currently working on [Awesome DevSetup](https://github.com/m-nobinur/awesome-devsetup);
-- 🌱 I’m currently learning Rust; 
+- 👨🏽‍💻 I’m currently working on [django-starter-cookie](https://github.com/m-nobinur/django-starter-cookie);
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/); 
 - 👯 I’m looking to collaborate on interesting open-source project 🤝;
 - 💬 Ask me about Python, Bash, Django, JavaScript;
 
@@ -52,16 +49,12 @@
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>  
   <a href="#"><img alt="Django REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the- badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white"></a>  
-    <a href="#"><img alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"></a>  
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>  
+    <a href="#"><img alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     </br>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -81,7 +74,6 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
