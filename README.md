@@ -18,9 +18,7 @@
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/m-nobinur?color=a4b0c1&labelColor=31658a&style=for-the-badge&logo=github&label=Github"/></a>
 </p>
 
-&nbsp;
-
-## About Me
+### About Me
 
 - 👨🏽‍💻 I’m currently working on [django-starter-cookie](https://github.com/m-nobinur/django-starter-cookie);
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/); 
