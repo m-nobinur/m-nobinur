@@ -25,7 +25,7 @@
 - 👨🏽‍💻 I’m currently working on [django-starter-cookie](https://github.com/m-nobinur/django-starter-cookie);
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/); 
 - 👯 I’m looking to collaborate on interesting open-source project 🤝;
-- 💬 Ask me about Python, Bash, Django, JavaScript;
+- 💬 Ask me about [Python](https://python.org/), [Bash](https://www.gnu.org/software/bash/), [Django](https://www.djangoproject.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript);
 
 &nbsp;
 
