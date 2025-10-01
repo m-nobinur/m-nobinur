@@ -1,7 +1,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </br>
-  Hi, I'm Mohammad Nobinur, a Full-Stack Developer.
+  Hi, I'm M Nobinur.
 </h2>
 
 <!-- generate badges from: https://shields.io/ -->
@@ -20,8 +20,6 @@
 
 ### About Me
 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/); 
-- 👯 I’m looking to collaborate on interesting open-source project 🤝;
 - 💬 Ask me about [Python](https://python.org/), [Bash](https://www.gnu.org/software/bash/), [Django](https://www.djangoproject.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript);
 
 &nbsp;
